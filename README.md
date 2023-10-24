@@ -1,4 +1,4 @@
-# Olá, meu nome é Luca!
+# Olá, meu nome é Luca 👋
  Apaixonado por tecnologia, educação e mudar a vida das pessoas através da programação.
 
 ## Tecnologias que uso no meu dia:
