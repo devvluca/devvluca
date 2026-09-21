@@ -5,8 +5,6 @@ Sou movido por desafios e busco sempre entregar tecnologia com propósito.
 
 ## Tecnologias que uso no meu dia:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvluca&layout=compact&langs_count=7&theme=radical"/>
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![RPA](https://img.shields.io/badge/RPA-blue?style=for-the-badge&logo=automattic&logoColor=white)
